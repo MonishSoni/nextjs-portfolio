@@ -18,7 +18,7 @@ const Header = () => {
               containerStyles="hidden xl:flex"
               listStyles="flex gap-6" linkStyles=" text-primary font-primary text-lg tracking-[1.4px] transition-all duration-300 cursor-pointer" />
 
-            <Socials/>
+            <Socials containerStyles="flex items-center gap-2" IconStyles="text-base w-[32px] h-[32px] bg-primary text-white flex items-center justify-center rounded-full"/>
           </div>
 
         </div>
